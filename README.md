@@ -6,4 +6,4 @@ cd csv-profiler
 pip install -r requirements.txt
 
 # Run the CLI
-python src/CLI.py run data/sample.csv
+python src/CLI.py run cvs-profiler/data/sample.csv
